@@ -1,0 +1,6 @@
+[submodule "submodules/prm800k"]
+	path = submodules/prm800k
+	url = https://github.com/openai/prm800k
+[submodule "submodules/LiveCodeBench"]
+	path = submodules/LiveCodeBench
+	url = https://github.com/LiveCodeBench/LiveCodeBench
